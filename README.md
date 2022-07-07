@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adhipramudya
 - 👀 I’m interested in Java. Php.Python
 - 🌱 I’m currently learning Restful-API
-- 💞️ I’m looking to collaborate on Telecommunications
+- 💞️ I’m looking to collaborate on Informatics &  Telecommunications
 - 📫 How to reach me+628980114135
 
 <!---
